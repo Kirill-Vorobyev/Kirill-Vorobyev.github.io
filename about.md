@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I like make stuff and take on too many hobbies at once.
+I like to make stuff and take on too many hobbies at once.
 
 ### Hobbies
 
