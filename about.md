@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like make stuff and take on too many hobbies at once.
 
-### More Information
+### Hobbies
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Web Dev Tinkering
+IoT
+Game Dev
+3D printing
+E-Bikes
+Mountain Biking
+Gardening
+Gaming/Eurogaming

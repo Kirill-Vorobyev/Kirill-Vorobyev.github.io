@@ -9,7 +9,7 @@ name: Kirill Vorobyev
 description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/35638949?s=460&u=5d0f36736b85da9c8364a2218878ce6446b86f34
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Kirill-Vorobyev
   instagram:
   linkedin: Kirill-Vorobyev
   pinterest:
